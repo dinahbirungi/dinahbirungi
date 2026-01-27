@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dinah-birungi-61a9732a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.tiktok.com/@_dinahbirungi?_r=1&_t=ZS-93OTql4LXU8"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.tiktok.com/@_dinahbirungi?_r=1&_t=ZS-93OTql4LXU8"><img src="https://img.shields.io/badge/TikTok-View_Profile-black?style=for-the-badge&logo=tiktok"></a>
   <a href="dinahbirungi3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
