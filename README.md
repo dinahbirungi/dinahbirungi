@@ -1,4 +1,4 @@
-## Hi there 👋
+## WELCOME! I'm Dinah.
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with foundational skills in Excel, SQL and Power BIpassionate about helping businesses make sense of their data. I enjoy transforming messy datasets into clear stories and actionable insights.
+I'm a data analyst with foundational skills in Excel, SQL and Power BI, passionate about helping businesses make sense of their data. I enjoy transforming messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used and uncovering patterns that help answer business questions.
 When I'm not working with data, I enjoy painting, teaching business owners how to do their bookkeeping. 
