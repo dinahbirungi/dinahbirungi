@@ -20,7 +20,7 @@ My focus is on building dashboards that get used and uncovering patterns that he
 When I'm not working with data, I enjoy painting, teaching business owners how to do their bookkeeping. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### https://www.canva.com/design/DAGzaRl4lDo/pDjR3-0UUrp5O81Bvg61Nw/view?utm_content=DAGzaRl4lDo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcc5fdeced5
       
 ## 🔭 What I'm Currently Working On 
 
